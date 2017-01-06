@@ -10,3 +10,4 @@ Release
 build
 .gradle
 *.apk
+*.iml
